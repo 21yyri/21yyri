@@ -1,9 +1,9 @@
 ## Yuri Teixeira
 
 🖥️ Estudante de informática<br>
-🌱 Aprendendo python e seu ecossistema<br>
+🐍 Aprendendo python e seu ecossistema<br>
 🤖 Entusiasta de back-end development<br>
-📂 Sempre atualizando projetos por aqui<br>
+📂 Constantemente atualizando projetos<br>
 <br>
 ✉️ Não sou ativo nas redes sociais, mas tenho [e-mail](mailto:yuriteixeira.dev@gmail.com).
 
