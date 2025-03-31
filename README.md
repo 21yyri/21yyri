@@ -1,13 +1,15 @@
 ## Yuri Teixeira
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@21yyri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuriteixeira.dev@gmail.com) 
+🖥️ Estudante de informática<br>
+🌱 Aprendendo python e seu ecossistema<br>
+🤖 Entusiasta de back-end development<br>
+📂 Sempre atualizando projetos por aqui<br>
+<br>
+✉️ Não sou ativo nas redes sociais, mas tenho [e-mail](mailto:yuriteixeira.dev@gmail.com).
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=21yyri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=21yyri&theme=dark&hide_border=false)<br/>
+## 💻 Tecnologias:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)<br>
+## 💻 Linguagens
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=21yyri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
