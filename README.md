@@ -1,7 +1,7 @@
 # Yuri Teixeira 
 <div align="center">
 
-[![E-MAIL](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuriteixeirac@proton.me) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/21yyri) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/21yyri)
+[![E-MAIL](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuriteixeirac@proton.me) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/21yyri) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/21yyri) [![NeoCities](https://img.shields.io/badge/NeoCities-6A0DAD?style=for-the-badge&logo=globe&logoColor=white)](https://21yyri.neocities.org)
 
 </div>
 
