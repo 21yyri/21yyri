@@ -9,12 +9,7 @@ I'm a student, currently trying to learn many things from **back-end** developme
 
 Seeking knowledge, recognition and a crowd to build upon, contributing not only to my own development, but to a community, which is the sense that keeps me eager to learn and sum.
 
-## Technologies
-<div align="center">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="80" ><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" width="80"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" width="80"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" width="80"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="80"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" width="80"><br><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="80"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" width="80"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="80"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="80">
-</div>
-
-## About this
+## About the profile
 Most of the time, I use GitHub to document my learning or deliver school projects. In the future, it may be filled with good projects, probably focused on a paradigm or technology I'll be trying to learn or get better at. Until there, I'll keep grinding my studies and udpating my roadpath I'm building to get at that point.
 
 <div align="center">
